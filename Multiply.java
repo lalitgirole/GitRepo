@@ -4,6 +4,6 @@ public class Sum{
         int a=5;
         int b=6;
 
-        System.out.println(" This is multiply ="+(a*b));
+        System.out.println(" This Is multiply ="+(a*b));
     }
 }
